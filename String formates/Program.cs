@@ -55,6 +55,29 @@ class Program
         Console.WriteLine(i1);
         Console.WriteLine($"{firstName} : m - {i1}  {lastName} : h - {i2}");
 
+        //   *Suraj*
+
+        Console.WriteLine("*Suraj*");
+
+        //    "Suraj"
+
+        Console.WriteLine("\"Suraj\"");
+        Console.WriteLine("I am \tBest  \"Employee\" in our \noffice");
+
+        Console.WriteLine("https://www.canva.com/design/DAF5Rjo0xDA/KBWK9BiziIDTdRCZF39hxQ/edit");
+
+        Console.WriteLine("C:\\Users\\addld\\AppData\\Local\\Temp\\{962C0941-2823-4BE6-9D5B-B131DC56803B}\\{AED3B0E9-E18C-4F84-BC40-63209FC301D7}");
+
+        Console.WriteLine(@"C:\Users\addld\AppData\Local\Temp\{962C0941-2823-4BE6-9D5B-B131DC56803B}\{AED3B0E9-E18C-4F84-BC40-63209FC301D7}");
+
+        string email = "gaurav@gmail.com";
+        Console.WriteLine(email);
+        Console.WriteLine(email.Substring(0,5));
+        Console.WriteLine(email.Substring(0,10));
+        Console.WriteLine(email.Substring(0,email.IndexOf('@')));
+        Console.WriteLine(email.Substring(email.IndexOf('@')+1, email.Length-email.IndexOf('@')-1));
+
+
         Console.ReadLine();
     }
 }
