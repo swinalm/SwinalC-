@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data_Type", "Data_Type\Data
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String formates", "String formates\String formates.csproj", "{7E8F4649-9957-40F3-A258-5391EB34A641}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{EB0E4C77-8234-4C7E-9258-594187CF74E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{EB0E4C77-8234-4C7E-9258-594187CF74E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Type_Conversion", "Type_Conversion\Type_Conversion.csproj", "{DE05A4AA-CDC2-4FAC-9B82-FD20AB40EF95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{EB0E4C77-8234-4C7E-9258-594187CF74E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB0E4C77-8234-4C7E-9258-594187CF74E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB0E4C77-8234-4C7E-9258-594187CF74E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE05A4AA-CDC2-4FAC-9B82-FD20AB40EF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE05A4AA-CDC2-4FAC-9B82-FD20AB40EF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE05A4AA-CDC2-4FAC-9B82-FD20AB40EF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE05A4AA-CDC2-4FAC-9B82-FD20AB40EF95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
