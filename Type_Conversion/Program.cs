@@ -80,23 +80,23 @@ string s3 = "True";
 bool b3 = Convert.ToBoolean(s3);
 Console.WriteLine($"{s3} : {b3}");
 
-//s3 = "456.124";
-//// double d = double.Parse(s3);
-//double d = Convert.ToDouble(s3);
-//Console.WriteLine($"{s3} : {d}");
+s3 = "456.124";
+// double d = double.Parse(s3);
+double d = Convert.ToDouble(s3);
+Console.WriteLine($"{s3} : {d}");
+// 1 byte = 8 bit
+////    Convert.ToInt16() = short 16
+////    Convert.ToInt32() = int 32
+////    Convert.ToInt64() = long 64
+////    Convert.ToSingle() = float 32
 
-////    Convert.ToInt16() = short
-////    Convert.ToInt32() = int
-////    Convert.ToInt64() = long
-////    Convert.ToSingle() = float
+string s5 = null;
+//int j1 = int.Parse(s5);
+//Console.WriteLine(j1);
+int j2 = Convert.ToInt32(s5);
+Console.WriteLine(j2);
 
-//string s4 = null;
-////int j1 = int.Parse(s4);
-////Console.WriteLine(j1);
-//int j2 = Convert.ToInt32(s4);
-//Console.WriteLine(j2);
-
-// diff : Parse() & Convert class method
+//diff : Parse() & Convert class method
 // Parse() method throws error when input string is null
 // Convert class method handles error and returns default value when input string is null
 
