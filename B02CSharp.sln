@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableType", "NullableTyp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionalStatement", "ConditionalStatement\ConditionalStatement.csproj", "{8113175A-8D1E-4663-A95A-8A5DDA6019CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondtionStatementExample", "CondtionStatementExample\CondtionStatementExample.csproj", "{D532138F-D438-4C65-89D3-F74F3D88AB2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CondtionStatementExample", "CondtionStatementExample\CondtionStatementExample.csproj", "{D532138F-D438-4C65-89D3-F74F3D88AB2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopingStatement", "LoopingStatement\LoopingStatement.csproj", "{287A2EBE-F4CB-44B7-930C-ACC64086178C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopingStatement", "LoopingStatement\LoopingStatement.csproj", "{287A2EBE-F4CB-44B7-930C-ACC64086178C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{61E18E84-1723-4F6E-AA83-D386131BAFB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{287A2EBE-F4CB-44B7-930C-ACC64086178C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{287A2EBE-F4CB-44B7-930C-ACC64086178C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{287A2EBE-F4CB-44B7-930C-ACC64086178C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E18E84-1723-4F6E-AA83-D386131BAFB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E18E84-1723-4F6E-AA83-D386131BAFB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E18E84-1723-4F6E-AA83-D386131BAFB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E18E84-1723-4F6E-AA83-D386131BAFB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
