@@ -55,21 +55,39 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessLib", "AccessLib\Acce
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessLibClient", "AccessLibClient\AccessLibClient.csproj", "{30695EDA-7840-4A33-AA59-7BA067218055}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhyProperty", "WhyProperty\WhyProperty.csproj", "{C89889AB-1FAC-4CA9-96CB-EEF658D1F0B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhyProperty", "WhyProperty\WhyProperty.csproj", "{C89889AB-1FAC-4CA9-96CB-EEF658D1F0B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Property", "Property\Property.csproj", "{3BA2512E-1346-49B6-846C-3C50AF5DD212}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Property", "Property\Property.csproj", "{3BA2512E-1346-49B6-846C-3C50AF5DD212}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer", "Indexer\Indexer.csproj", "{DDE95A7A-73BF-4008-B143-F31B0AA0BA2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexer", "Indexer\Indexer.csproj", "{DDE95A7A-73BF-4008-B143-F31B0AA0BA2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methodoverriding", "Methodoverriding\Methodoverriding.csproj", "{4ED06812-6CA8-4159-AC49-36EA30D73AB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methodoverriding", "Methodoverriding\Methodoverriding.csproj", "{4ED06812-6CA8-4159-AC49-36EA30D73AB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{9E09737D-E8CC-42F7-B54B-B3A570C3AEA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{9E09737D-E8CC-42F7-B54B-B3A570C3AEA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverLoading", "OperatorOverLoading\OperatorOverLoading.csproj", "{E1FB0209-BF53-4026-AB8B-4ACE83CB19AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperatorOverLoading", "OperatorOverLoading\OperatorOverLoading.csproj", "{E1FB0209-BF53-4026-AB8B-4ACE83CB19AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloading1", "OperatorOverloading1\OperatorOverloading1.csproj", "{421F7F77-12E1-41F5-9944-5E0336798564}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperatorOverloading1", "OperatorOverloading1\OperatorOverloading1.csproj", "{421F7F77-12E1-41F5-9944-5E0336798564}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractKeyword", "AbstractKeyword\AbstractKeyword.csproj", "{6516D818-3B52-4F68-9893-D7FC9BDE2DC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractKeyword", "AbstractKeyword\AbstractKeyword.csproj", "{6516D818-3B52-4F68-9893-D7FC9BDE2DC0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleInhertance", "MultipleInhertance\MultipleInhertance.csproj", "{1174FE61-2C0A-41E6-8B34-E275D1A91D89}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{A78DC4BF-8F26-4D30-B4EF-54F3462A0952}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceUser", "InterfaceUser\InterfaceUser.csproj", "{BBF8657E-5520-4EBB-849B-050B1102E940}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartialKeyword", "PartialKeyword\PartialKeyword.csproj", "{2CAF475F-2B97-4227-9AD5-36452E09D155}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic", "Generic\Generic.csproj", "{A4B9377F-E375-4FE6-A96F-88EC9FAE6D38}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Object_type", "Object_type\Object_type.csproj", "{8586DEDB-2F97-42EA-872C-51CF2682150E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VarDaynamic", "VarDaynamic\VarDaynamic.csproj", "{A1C13C0C-97D6-49BA-8131-69085659FD09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstReadOnly", "ConstReadOnly\ConstReadOnly.csproj", "{2ECB0368-61A0-4343-8CE7-05D8EAEDB257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum1", "Enum1\Enum1.csproj", "{704E1B90-AB3B-4760-9E39-751C3E26BFE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +231,42 @@ Global
 		{6516D818-3B52-4F68-9893-D7FC9BDE2DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6516D818-3B52-4F68-9893-D7FC9BDE2DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6516D818-3B52-4F68-9893-D7FC9BDE2DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1174FE61-2C0A-41E6-8B34-E275D1A91D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1174FE61-2C0A-41E6-8B34-E275D1A91D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1174FE61-2C0A-41E6-8B34-E275D1A91D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1174FE61-2C0A-41E6-8B34-E275D1A91D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78DC4BF-8F26-4D30-B4EF-54F3462A0952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78DC4BF-8F26-4D30-B4EF-54F3462A0952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78DC4BF-8F26-4D30-B4EF-54F3462A0952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78DC4BF-8F26-4D30-B4EF-54F3462A0952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF8657E-5520-4EBB-849B-050B1102E940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF8657E-5520-4EBB-849B-050B1102E940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF8657E-5520-4EBB-849B-050B1102E940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF8657E-5520-4EBB-849B-050B1102E940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CAF475F-2B97-4227-9AD5-36452E09D155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAF475F-2B97-4227-9AD5-36452E09D155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAF475F-2B97-4227-9AD5-36452E09D155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAF475F-2B97-4227-9AD5-36452E09D155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B9377F-E375-4FE6-A96F-88EC9FAE6D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B9377F-E375-4FE6-A96F-88EC9FAE6D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B9377F-E375-4FE6-A96F-88EC9FAE6D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B9377F-E375-4FE6-A96F-88EC9FAE6D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8586DEDB-2F97-42EA-872C-51CF2682150E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8586DEDB-2F97-42EA-872C-51CF2682150E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8586DEDB-2F97-42EA-872C-51CF2682150E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8586DEDB-2F97-42EA-872C-51CF2682150E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C13C0C-97D6-49BA-8131-69085659FD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C13C0C-97D6-49BA-8131-69085659FD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C13C0C-97D6-49BA-8131-69085659FD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C13C0C-97D6-49BA-8131-69085659FD09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ECB0368-61A0-4343-8CE7-05D8EAEDB257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECB0368-61A0-4343-8CE7-05D8EAEDB257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECB0368-61A0-4343-8CE7-05D8EAEDB257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECB0368-61A0-4343-8CE7-05D8EAEDB257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{704E1B90-AB3B-4760-9E39-751C3E26BFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704E1B90-AB3B-4760-9E39-751C3E26BFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704E1B90-AB3B-4760-9E39-751C3E26BFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704E1B90-AB3B-4760-9E39-751C3E26BFE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
