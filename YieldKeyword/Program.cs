@@ -1,5 +1,6 @@
 ﻿Calculator c = new Calculator();
-List<int> numbers = new List<int>() { 1, 2, 3, 4, 5, 6 };
+List<int> numbers = new List<int>() 
+{ 1, 2, 3, 4, 5, 6 };
 foreach (int num in c.GetEven(numbers))
 {
     Console.Write($"{num} ");
